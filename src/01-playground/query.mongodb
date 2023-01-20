@@ -1,4 +1,10 @@
 use("sample_training")
+<<<<<<< Updated upstream
 db.zips.find({state:"NY"}).count()//contenedor cambios
 
+=======
+db.zips.find({state:"NY"}).count()//Permite mostrar los estados de New York
+//Prueba 2
+
+>>>>>>> Stashed changes
 
