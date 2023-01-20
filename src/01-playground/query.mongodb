@@ -4,7 +4,7 @@ db.zips.find({state:"NY"}).count()//contenedor cambios
 
 =======
 db.zips.find({state:"NY"}).count()//Permite mostrar los estados de New York
-//Prueba 2
+//Prueba 2 actualizacion
 
 >>>>>>> Stashed changes
 
