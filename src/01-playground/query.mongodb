@@ -1,4 +1,4 @@
 use("sample_training")
-db.zips.find({state:"NY"}).count()//contenedor cambios
+db.zips.find({state:"NY"}).count()//Permite mostrar los estados de New York
 
 
